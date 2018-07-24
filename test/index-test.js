@@ -36,3 +36,4 @@ describe('the local repository', () => {
     })
 
 })
+
